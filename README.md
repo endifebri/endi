@@ -1,2 +1,0 @@
-# endi
-Tugas1
